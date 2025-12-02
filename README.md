@@ -74,4 +74,13 @@ serve -l 3000
 http://localhost:3000
 ```
 
-### 🎉 Tudo pronto para realizar testes de comunicação entre as portas 8080 e 3000. 
+### 🎉 Tudo pronto para realizar testes de comunicação entre as portas 8080 e 3000.
+
+## 📹 Demonstração da API (Vídeo)
+
+**Link:** 
+
+**Conteúdo do vídeo:**
+1. 🎬 Apresentação e demonstração de sucesso;  
+2. ❌ Demonstração do erro; 
+6. 🔎 Respostas da Reflexão.
