@@ -78,7 +78,7 @@ http://localhost:3000
 
 ## 📹 Demonstração da API (Vídeo)
 
-**Link:** 
+**Link:** https://youtu.be/PqA9oVLI4fE?si=nkekoagoIgdkTGP8
 
 **Conteúdo do vídeo:**
 1. 🎬 Apresentação e demonstração de sucesso;  
